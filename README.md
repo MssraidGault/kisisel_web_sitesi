@@ -1,14 +1,14 @@
 
->>>>>>> c0921f3e7eab60708d7c7f7b4382feda0d23328e
+
 # Kişisel Web Sitem
 
 Bu proje, Sakarya Üniversitesi Web Programlama dersi kapsamında bireysel olarak geliştirilen kişisel bir web sitesi uygulamasıdır. Projede HTML, CSS, JavaScript, Bootstrap, Vue.js ve PHP teknolojileri kullanılmıştır.
 
-## 🎯 Proje Amacı
+## Proje Amacı
 
 Web programlama dersinde öğrenilen konuların pratiğe dökülmesi, responsive (mobil uyumlu) bir kişisel web sitesi geliştirilmesi ve temel front-end + back-end entegrasyonunun gerçekleştirilmesidir.
 
-## 📄 Sayfalar ve İçerikler
+## Sayfalar ve İçerikler
 
 - **Hakkında:** Site sahibinin kendini tanıttığı giriş sayfası (hobiler, etkinlikler, resimler).
 - **Özgeçmiş:** Eğitim bilgileri içeren, semantik HTML ile hazırlanmış CV sayfası.
@@ -18,7 +18,7 @@ Web programlama dersinde öğrenilen konuların pratiğe dökülmesi, responsive
 - **Login:** PHP ile kullanıcı girişi yapılan sayfa (mail ve şifre kontrolü).
 - **İletişim:** Form elemanları içeren ve Vue.js + JavaScript ile doğrulama yapılan sayfa.
 
-## 🛠️ Kullanılan Teknolojiler
+## 🛠Kullanılan Programlama ve İşaretleme Dilleri
 
 - HTML5 & CSS3
 - JavaScript (Vanilla)
@@ -27,7 +27,7 @@ Web programlama dersinde öğrenilen konuların pratiğe dökülmesi, responsive
 - PHP (login işlemleri için)
 - Git & GitHub (versiyon kontrolü)
 
-## 🚀 Kurulum
+## Kurulum
 
 Projeyi kendi bilgisayarınıza klonlamak için:
 
