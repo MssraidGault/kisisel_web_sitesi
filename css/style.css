@@ -1,0 +1,83 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+h1, h2, h3 {
+  color: #1a1a1a;
+}
+
+.navbar {
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+header {
+  background: linear-gradient(135deg, #a1c4fd, #c2e9fb);
+  color: #333;
+  border-radius: 8px;
+}
+
+footer {
+  background-color: #222;
+  color: #ddd;
+}
+
+img {
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  transition: transform 0.3s ease;
+}
+
+img:hover {
+  transform: scale(1.05);
+}
+.hobi-listesi {
+  list-style-type: none; 
+  padding-left: 0;
+}
+
+.hobi-listesi li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+  position: relative;
+  padding-left: 20px;
+}
+
+.hobi-listesi li::before {
+  content: "•";
+  position: absolute;
+  left: 0;
+  font-size: 20px;
+  color: #333;
+}
+
+
+.hobi-img {
+  width: 50px;         
+  height: 50px;
+  object-fit: cover;  
+  border-radius: 50%;  
+  margin-right: 12px;  
+}
+.hobi-foto {
+  width: 300px;   
+  height: 275px;  
+  object-fit: cover;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+  transition: transform 0.3s ease;
+  margin: 5px;
+}
+.custom-photo {
+  width: 180px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 8px;
+  border: 2px solid #ccc;
+}
+
+
+
+
