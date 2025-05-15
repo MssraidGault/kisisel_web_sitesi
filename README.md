@@ -2,7 +2,7 @@
 
 # Kişisel Web Sitem
 
-Bu proje, Sakarya Üniversitesi Web Programlama dersi kapsamında bireysel olarak geliştirilen kişisel bir web sitesi uygulamasıdır. Projede HTML, CSS, JavaScript, Bootstrap, Vue.js ve PHP teknolojileri kullanılmıştır.
+Bu proje, Sakarya Üniversitesi Web Programlama dersi kapsamında bireysel olarak geliştirilen kişisel bir web sitesi uygulamasıdır. Projede HTML, CSS, JavaScript, Bootstrap, ve PHP teknolojileri kullanılmıştır.
 
 ## Proje Amacı
 
