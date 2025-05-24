@@ -1,4 +1,4 @@
-## 🌐 Canlı Demo
+## Demo
 
 Proje internette yayında:  
 👉 [http://mirsadkisiselwebsitesi.unaux.com](http://mirsadkisiselwebsitesi.unaux.com)
