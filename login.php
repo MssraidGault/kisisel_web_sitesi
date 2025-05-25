@@ -4,8 +4,8 @@ $email = $_POST['email'];
 $sifre = $_POST['sifre'];
 
 // Doğru kullanıcı bilgileri (örnek: sabit)
-$dogruEmail = "b2412100001@sakarya.edu.tr";
-$dogruSifre = "b2412100001";
+$dogruEmail = "b241210010@sakarya.edu.tr";
+$dogruSifre = "b241210010";
 
 if ($email === $dogruEmail && $sifre === $dogruSifre) {
     echo "<h2>Hoşgeldiniz $sifre</h2>";
