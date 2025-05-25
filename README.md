@@ -26,16 +26,15 @@ Web programlama dersinde öğrenilen konuların pratiğe dökülmesi, responsive
 - PHP (login işlemleri için)
 - Git & GitHub (versiyon kontrolü)
 
+## Demo
+
+Proje internette yayında:  
+👉 [http://mirsadkisiselwebsitesi.unaux.com](http://mirsadkisiselwebsitesi.unaux.com)
+
 ## Kurulum
 
 Projeyi kendi bilgisayarınıza klonlamak için:
 
 ```bash
 git clone https://github.com/kullanici-adi/kisisel-web-sitem.git
-
-## Demo
-
-Proje internette yayında:  
-👉 [http://mirsadkisiselwebsitesi.unaux.com](http://mirsadkisiselwebsitesi.unaux.com)
-
 
