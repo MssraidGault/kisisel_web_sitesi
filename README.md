@@ -1,8 +1,3 @@
-## Demo
-
-Proje internette yayında:  
-👉 [http://mirsadkisiselwebsitesi.unaux.com](http://mirsadkisiselwebsitesi.unaux.com)
-
 
 # Kişisel Web Sitem
 
@@ -37,4 +32,10 @@ Projeyi kendi bilgisayarınıza klonlamak için:
 
 ```bash
 git clone https://github.com/kullanici-adi/kisisel-web-sitem.git
+
+## Demo
+
+Proje internette yayında:  
+👉 [http://mirsadkisiselwebsitesi.unaux.com](http://mirsadkisiselwebsitesi.unaux.com)
+
 
