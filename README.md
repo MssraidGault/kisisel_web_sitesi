@@ -17,7 +17,7 @@ Web programlama dersinde öğrenilen konuların pratiğe dökülmesi, responsive
 - **Login:** PHP ile kullanıcı girişi yapılan sayfa (mail ve şifre kontrolü).
 - **İletişim:** Form elemanları içeren ve Vue.js + JavaScript ile doğrulama yapılan sayfa.
 
-## 🛠Kullanılan Programlama ve İşaretleme Dilleri
+## Kullanılan Programlama ve İşaretleme Dilleri
 
 - HTML5 & CSS3
 - JavaScript (Vanilla)
